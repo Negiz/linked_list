@@ -1,2 +1,3 @@
 # linked_list
-tried to create linked list with methods
+Linked list with methods.
+There are some comments.
