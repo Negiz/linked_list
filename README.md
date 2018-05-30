@@ -1,6 +1,6 @@
 # linked_list
 Linked list with methods.
 There are some comments.
-<p><font size="12"> How linked list's work,</font><font size="2" >(kind of)</font></h1>
+<p><font size="24"> How linked list's work,</font><font size="2" >(kind of)</font></h1>
 
 <p> Linked list is a kind of an array of nodes where one node is linked to other node</p>
